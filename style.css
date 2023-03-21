@@ -35,9 +35,14 @@ h2 {
 }
 
 #style {
-    color: rgb(190, 190, 190);
-    font-size: 100%;   
+    color: rgb(224, 15, 15);
+    font-size: 100%; 
 }
+
+#interactive {
+    color: rgb(224, 15, 15);
+}
+
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
@@ -49,6 +54,12 @@ p {
     font-size: 100%;   
 }
 
+#p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-style: italic;
+    color: rgb(190, 190, 190);
+}
 
 
 

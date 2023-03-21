@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(200, 200, 200);
-  noStroke()
+  noStroke(0)
 
   ambientLight(128);
   let locX = mouseX - width / 2;
